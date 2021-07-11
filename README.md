@@ -1,0 +1,1 @@
+# goindex-quick-install
